@@ -1,0 +1,25 @@
+# Questions for class
+- Class 1: Intro
+	- What is your role in your organization?
+	- Why did you decide to attend this class?
+	- What do you hope to learn?
+- Class 2: Injection
+	- Did you view the demo on heroku and did it work? On your own computer?
+	- More demos, or more content, more time for questions?
+	- Prefer deeper dives on content like injection or broader survey to cover more ground?
+	- What could I do as a presenter to help you understand the topic better?
+- Class 3: Auth
+	- Did the difference between authentication and authorization seem clear? How could this be clearer?
+	- Would it be valuable to learn more about authorization?
+	- How did you feel about the sidebars in this session: were they too much? Too little? Distracting? Helpful? etc...
+- Class 4: XSS
+	- Are there any particular parts of this topic that you would like to see covered in more depth?
+	- Before this session, had you heard of CSRF (XSRF)? 
+	- Do you think XSS is a concern in your work? CSRF? Do you want more information about either about how to mitigate that concern?
+-  Class 5: Process
+	- Topics for other classes?
+		- Deeper dives on individual roles in appsec?
+		- Other security topics like network security, tools, operational security, etc?
+	- Within your organization, how would you characterize your role vis-a-vis security? Did either the "individual" or "team" process and practice section address issues concerning your role?
+	- Do you plan to bring information you learned in this session to your organization? If so, how? Presentations? Lunch-and-learns? Executive summary? Wiki pages?
+	- How do you think business concerns should be involved with application security, if at all?
